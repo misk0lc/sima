@@ -9,7 +9,6 @@ Az alábbiakban részletesen bemutatjuk a program felépítését és működés
 A `MainWindow.xaml` fájl határozza meg a játék grafikus felületét.
 
 ### **1.1 Ablak és alapbeállítások**
-```xml
 <Window x:Class="Akasztofa.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
